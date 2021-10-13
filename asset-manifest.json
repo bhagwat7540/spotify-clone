@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bhagwat7540/spotify-clone/static/css/main.03b4811a.chunk.css",
+    "main.js": "/bhagwat7540/spotify-clone/static/js/main.5a8aa1b9.chunk.js",
+    "main.js.map": "/bhagwat7540/spotify-clone/static/js/main.5a8aa1b9.chunk.js.map",
+    "runtime-main.js": "/bhagwat7540/spotify-clone/static/js/runtime-main.7e85087f.js",
+    "runtime-main.js.map": "/bhagwat7540/spotify-clone/static/js/runtime-main.7e85087f.js.map",
+    "static/js/2.613ebc04.chunk.js": "/bhagwat7540/spotify-clone/static/js/2.613ebc04.chunk.js",
+    "static/js/2.613ebc04.chunk.js.map": "/bhagwat7540/spotify-clone/static/js/2.613ebc04.chunk.js.map",
+    "static/js/3.53ec383f.chunk.js": "/bhagwat7540/spotify-clone/static/js/3.53ec383f.chunk.js",
+    "static/js/3.53ec383f.chunk.js.map": "/bhagwat7540/spotify-clone/static/js/3.53ec383f.chunk.js.map",
+    "index.html": "/bhagwat7540/spotify-clone/index.html",
+    "static/css/main.03b4811a.chunk.css.map": "/bhagwat7540/spotify-clone/static/css/main.03b4811a.chunk.css.map",
+    "static/js/2.613ebc04.chunk.js.LICENSE.txt": "/bhagwat7540/spotify-clone/static/js/2.613ebc04.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e85087f.js",
+    "static/js/2.613ebc04.chunk.js",
+    "static/css/main.03b4811a.chunk.css",
+    "static/js/main.5a8aa1b9.chunk.js"
+  ]
+}
